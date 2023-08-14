@@ -27,7 +27,7 @@ This project aims to create a mobile-controlled home automation system that enab
 3. The HC-05 module facilitates communication between the mobile app and the Arduino, enabling remote control from a distance.
 4. The relay module acts as a switch for each load, providing reliable control over the devices.
 
-##Prototype
+## Prototype
 
 ![image](https://github.com/Himanshukr033/Home_Automation/assets/97483100/bb726847-0a1c-40ca-8015-45453756f94a)
 sketch (block diagram)
@@ -35,7 +35,7 @@ sketch (block diagram)
 ![image](https://github.com/Himanshukr033/Home_Automation/assets/97483100/2b2f60fa-2b4f-4f04-977d-a8a0cc44ff99)
 circuit diagram
 
-![image](https://github.com/Himanshukr033/Home_Automation/assets/97483100/28dd29c2-39a1-4981-ae11-cfe195fbc2ae)![image](https://github.com/Himanshukr033/Home_Automation/assets/97483100/b756dd73-7064-41ab-8f9e-e6024ac007a7)
+![image](https://github.com/Himanshukr033/Home_Automation/assets/97483100/28dd29c2-39a1-4981-ae11-cfe195fbc2ae)![image](https://github.com/Himanshukr033/Home_Automation/assets/97483100/b756dd73-7064-41ab-8f9e-e6024ac007a7)  
 App interface and command send from the app used
 
 ![image](https://github.com/Himanshukr033/Home_Automation/assets/97483100/dd6b5f3a-6b70-4734-87d7-780f67c09f2b)
